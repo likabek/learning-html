@@ -1,6 +1,6 @@
 *{
-  /*margin: 0;*/
-  /*padding-left:0*/;
+  /*margin: 0;
+  padding-left:0*/;
 }
 
 
@@ -8,26 +8,61 @@
 
 
 div {
-    
+
+
 height: 200px;
     width: 50%;
-    
+
 
 }
 
 
 h1 {
-
+text-align: center;
 color:red;
-
-background-color: blue;
-
+margin-right: 900px;
 
 }
 
 
 
 
+.yellow{
+  display: inline-block;
+ width: 200px;
+  height: 200px;
+background-color: yellow;
+}
+
+.red{
+  display: inline-block;
+width: 200px;
+  height: 200px;
+background-color: red;
+
+}
+
+
+
+
+
+.blue{
+  display: inline-block;
+width: 200px;
+  height: 200px;
+background-color: LightSkyBlue ;
+}
+
 .pink{
-background.color: pink;
+  display: inline-block;
+width: 200px;
+  height: 200px;
+background-color: pink;
+}
+
+.green{
+  display: inline-block;
+width: 200px;
+  height: 200px;
+background-color: LightGreen;
 }
